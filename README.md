@@ -8,4 +8,6 @@ Components:
   * FiPy module
   * 
  
+ The last firmware commit contains setting IoT LTE from  Vodafone. 
+
 
